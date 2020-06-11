@@ -1,0 +1,20 @@
+{
+  "name": "cypress-hernan",
+  "version": "1.0.0",
+  "description": "testing Aliexpress with Cypress",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^4.8.0"
+  },
+  "devDependencies": {
+    "cypress": "^4.8.0"
+  },
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "Cypress"
+  ],
+  "author": "Hernan Alonso",
+  "license": "ISC"
+}
