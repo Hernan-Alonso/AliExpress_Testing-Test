@@ -11,7 +11,6 @@ For this purpose this test will be written in Java using Selenium webdriver and 
 & will also be tested under Javascript testing tool, Cypress.
 
 # To consider
-Please consider the optimal path to Java paths for chromedriver.exe.
 Cypress testing, you should have npm and cypress installed.
 
 # Cypress
