@@ -1,0 +1,29 @@
+#
+# Standard Maven .gitignore
+#
+Java/testing/target/*
+**/target/
+Java/testing/pom.xml
+Java/testing/pom.xml.releaseBackup
+Java/testing/pom.xml.versionsBackup
+Java/testing/pom.xml.next
+Java/testing/release.properties
+Java/testing/dependency-reduced-pom.xml
+Java/testing/buildNumber.properties
+Java/testing/.mvn/timing.properties
+
+#
+# IntelliJ
+#
+Java/*.iml
+Java/.idea/*
+Java/!.idea/runConfigurations/
+
+#
+# Visual Studio Code
+#
+Java/testing/.settings/
+Java/testing/.classpath
+Java/testing/.factorypath
+Java/testing/.project
+Java/testing/.vscode/
