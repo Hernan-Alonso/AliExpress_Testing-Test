@@ -27,3 +27,9 @@ Java/testing/.classpath
 Java/testing/.factorypath
 Java/testing/.project
 Java/testing/.vscode/
+
+
+# JS Cypress
+JS/node_modules
+JS/cypress/screenshots
+JS/cypress/videos
